@@ -1,0 +1,49 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.location
+{
+    margin-left: 20%;
+    margin-right: 40rem;    
+}
+
+
+.ingredient-list {
+    text-align: center;
+    padding: 10%;
+    display: block;
+    list-style: none;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 4px solid orange;
+}
+
+.main
+{
+    margin-right: 50%;
+} 
+
+.image{
+    display: block;
+    margin-left: auto;
+    width: 40%;
+    margin-right: 60%;
+}
+
+ul#moussaka
+{
+    list-style: disc;
+}
+
+ul.ingredient-list > li::marker 
+{
+    color: red;
+}
