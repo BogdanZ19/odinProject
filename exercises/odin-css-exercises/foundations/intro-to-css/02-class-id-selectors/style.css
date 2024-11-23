@@ -1,0 +1,20 @@
+.odd {
+
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: #f29591;
+}
+
+.font-24 {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+
+#four {
+    background-color: lightgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
